@@ -2,7 +2,8 @@
 A simple minimalist webapp where user gets to see tours on offer by an agency and allow him to choose the ones he is interested and not interested
 
 # Tours WebSite  
-## ReactJs  
+## ReactJs  [Live Demo](https://regal-tartufo-0c49f5.netlify.app/)  
+### Hosted using Netlifly
 
 ![Alt Text](https://github.com/im3dabasia/Tours-Web/blob/master/images/ezgif.com-gif-maker%20(1).gif)
 
